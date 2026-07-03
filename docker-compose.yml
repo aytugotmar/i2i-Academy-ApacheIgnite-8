@@ -1,0 +1,6 @@
+services:
+  ignite:
+    image: apacheignite/ignite:2.16.0
+    container_name: i2i-ignite
+    ports:
+      - "10800:10800"
