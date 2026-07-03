@@ -48,12 +48,12 @@ mvn exec:exec
 
 ### The application will automatically:
 
-\*Connect to the local Ignite node.
+- Connect to the local Ignite node.
 
-\*Initialize and truncate the Subscriber cache/table.
+- Initialize and truncate the Subscriber cache/table.
 
-\*Insert 5 dummy subscribers with zeroed usage.
+- Insert 5 dummy subscribers with zeroed usage.
 
-\*Simulate random data (GB), SMS, and call minute updates.
+- Simulate random data (GB), SMS, and call minute updates.
 
-\*Fetch and display the final state of all subscribers.
+- Fetch and display the final state of all subscribers.
