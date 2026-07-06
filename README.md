@@ -1,4 +1,4 @@
-# i2i Academy - Apache Ignite (IMDG) - Homework 8
+# i2i Academy - Apache Ignite (IMDG)
 
 This project demonstrates the fundamentals of In-Memory Data Grids (IMDG) and Distributed Databases by setting up a single-node **Apache Ignite 3** cluster via Docker. It includes a modern Java Thin Client implementation to perform data initialization, insertion, and simulation of telecommunication usage updates.
 
